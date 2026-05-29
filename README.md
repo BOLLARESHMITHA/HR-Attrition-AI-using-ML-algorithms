@@ -1,3 +1,3 @@
 # HR-Attrition-AI-using-ML-algorithms
 
-deployment link : https://hr-attrition-ai-using-ml-algorithms.streamlit.app/
+UI link : https://hr-attrition-ai-using-ml-algorithms.streamlit.app/
